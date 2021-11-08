@@ -47,4 +47,5 @@ ___粗斜体文字___
 这是一个链接[百度](https://www.baidu.com)
 
 
-$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$
+$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$  
+github上的markdown好像不支持公式？混蛋
